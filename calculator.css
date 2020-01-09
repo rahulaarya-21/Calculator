@@ -1,0 +1,51 @@
+/*body
+{
+	background-color: yellow;
+	background-color: linear-gradient(to right,blue, red);
+	height: 100%;
+
+}
+*/
+*
+{
+	
+	margin:0px;
+	padding: 0px;
+}
+
+
+.button
+{
+	width:50px;
+	height:50px;
+	margin:2px;
+background-color: lightblue;
+}
+
+.textview
+{
+	margin:2px;
+	margin-top: 5px;
+	width: 218px;
+	height:25px;
+	background-color: white;
+}
+
+.block
+{
+	position: absolute;
+	top:170px;
+	right:600px;
+	background-color: black;
+}
+
+.bg
+{
+	height:630px;
+	background:linear-gradient(to right, red ,blue );
+}
+
+h1
+{
+	color:red;
+}
